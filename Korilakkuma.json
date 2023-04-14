@@ -1,0 +1,254 @@
+{
+  "name": "Korilakkuma",
+  "description": "Korilakkuma Theme (For Femboys)",
+  "version": "1",
+  "authors": [
+    {
+      "name": "YuhMuva#1799",
+      "id": "359111312418275349"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "CHAT_BACKGROUND": [
+      "#673C46",
+      "#673C46"
+    ],
+    "HEADER_PRIMARY": [
+      "#E6B1B5",
+      "#181622"
+    ],
+    "HEADER_SECONDARY": [
+      "#E3849A",
+      "#181622"
+    ],
+    "TEXT_NORMAL": [
+      "#F5C9CC",
+      "#181622"
+    ],
+    "TEXT_MUTED": [
+      "#EDE2CA",
+      "#181622"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#E3849A",
+      "#E3849A"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#4C3402",
+      "#4C3402"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#E6B1B5",
+      "#E6B1B5"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5E451B",
+      "#5E451B"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#523A14",
+      "#523A14"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#523A14",
+      "#523A14"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#4C3402",
+      "#4C3402"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#4C3402",
+      "#4C3402"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#5E451B",
+      "#5E451B"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#5E451B",
+      "#5E451B"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#4C3402",
+      "#4C3402"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#4C3402",
+      "#4C3402"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#4C3402",
+      "#4C3402"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#5E451B",
+      "#5E451B"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#5E451B",
+      "#5E451B"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#5E451B",
+      "#5E451B"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#5E451B",
+      "#5E451B"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#5E451B",
+      "#5E451B"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#EDE2CA",
+      "#EDE2CA"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "transparent",
+      "#FFA3B9"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#FFA3B9"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent",
+      "#FFA3B9"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#FFA3B9",
+      "#F7FDFC"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "TEXT_LINK": [
+      "#EDE2CA",
+      "#181622"
+    ],
+    "KEYBOARD": [
+      "#673C46",
+      "#673C46"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#FC7E8B",
+    "PRIMARY_200": "#FC7E8B",
+    "PRIMARY_300": "#FC7E8B",
+    "PRIMARY_360": "#FC7E8B",
+    "PRIMARY_400": "#E6B1B5",
+    "PRIMARY_500": "#E6B1B5",
+    "PRIMARY_600": "#4C3402",
+    "PRIMARY_630": "#E6B1B5",
+    "PRIMARY_700": "#FFDBF1",
+    "PRIMARY_800": "#5E451B",
+    "BRAND_260": "#FFDBF1",
+    "BRAND_300": "#FFDBF1",
+    "BRAND_330": "#FFDBF1",
+    "BRAND_345": "#FFDBF1",
+    "BRAND_360": "#E6B1B5",
+    "BRAND_400": "#FFDBF1",
+    "BRAND_430": "#E6B1B5",
+    "BRAND_460": "#E6B1B5",
+    "BRAND_500": "#FFA3B9",
+    "BRAND_530": "#FFA3B9",
+    "BRAND_560": "#FFA3B9",
+    "BRAND_600": "#FFA3B9",
+    "BRAND_630": "#FFDBF1",
+    "BRAND_660": "#5E451B",
+    "BRAND_700": "#5E451B",
+    "RED_260": "#F5DFEF",
+    "RED_300": "#F5DFEF",
+    "RED_330": "#F5DFEF",
+    "RED_345": "#F5DFEF",
+    "RED_360": "#F2BBDC",
+    "RED_400": "#F2BBDC",
+    "RED_430": "#F2BBDC",
+    "RED_460": "#F2BBDC",
+    "RED_500": "#FFA3B9",
+    "RED_530": "#FFA3B9",
+    "RED_560": "#FFA3B9",
+    "RED_600": "#FFA3B9",
+    "RED_630": "#FF85A1",
+    "RED_660": "#FF85A1",
+    "RED_700": "#FF85A1",
+    "ORANGE_260": "#E6B1B5",
+    "ORANGE_300": "#E6B1B5",
+    "ORANGE_330": "#E6B1B5",
+    "ORANGE_345": "#E6B1B5",
+    "ORANGE_360": "#E6B1B5",
+    "ORANGE_400": "#E6B1B5",
+    "ORANGE_430": "#E6B1B5",
+    "ORANGE_460": "#E6B1B5",
+    "ORANGE_500": "#FFA3B9",
+    "ORANGE_530": "#FFA3B9",
+    "ORANGE_560": "#FFA3B9",
+    "ORANGE_600": "#FFA3B9",
+    "ORANGE_630": "#E3849A",
+    "ORANGE_660": "#E3849A",
+    "ORANGE_700": "#E3849A",
+    "YELLOW_260": "#E6B1B5",
+    "YELLOW_300": "#E6B1B5",
+    "YELLOW_330": "#E6B1B5",
+    "YELLOW_345": "#E6B1B5",
+    "YELLOW_360": "#E6B1B5",
+    "YELLOW_400": "#E6B1B5",
+    "YELLOW_430": "#E6B1B5",
+    "YELLOW_460": "#E6B1B5",
+    "YELLOW_500": "#FFA3B9",
+    "YELLOW_530": "#FFA3B9",
+    "YELLOW_560": "#FFA3B9",
+    "YELLOW_600": "#FFA3B9",
+    "YELLOW_630": "#E3849A",
+    "YELLOW_660": "#E3849A",
+    "YELLOW_700": "#E3849A",
+    "GREEN_260": "#F5DFEF",
+    "GREEN_300": "#F5DFEF",
+    "GREEN_330": "#F5DFEF",
+    "GREEN_345": "#F5DFEF",
+    "GREEN_360": "#F2BBDC",
+    "GREEN_400": "#F2BBDC",
+    "GREEN_430": "#F2BBDC",
+    "GREEN_460": "#F2BBDC",
+    "GREEN_500": "#FFA3B9",
+    "GREEN_530": "#FFA3B9",
+    "GREEN_560": "#FFA3B9",
+    "GREEN_600": "#FFA3B9",
+    "GREEN_630": "#FF85A1",
+    "GREEN_660": "#FF85A1",
+    "GREEN_700": "#FF85A1",
+    "BLUE_260": "#F5DFEF",
+    "BLUE_300": "#F5DFEF",
+    "BLUE_330": "#F5DFEF",
+    "BLUE_345": "#F5DFEF",
+    "BLUE_360": "#F2BBDC",
+    "BLUE_400": "#F2BBDC",
+    "BLUE_430": "#F2BBDC",
+    "BLUE_460": "#F2BBDC",
+    "BLUE_500": "#FFA3B9",
+    "BLUE_530": "#FFA3B9",
+    "BLUE_560": "#FFA3B9",
+    "BLUE_600": "#FFA3B9",
+    "BLUE_630": "#FF85A1",
+    "BLUE_660": "#FF85A1",
+    "BLUE_700": "#FF85A1"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://cdn.discordapp.com/attachments/1092483310372012164/1096331624825753620/DA311F55-8DDD-4E11-8E11-E1367FA059E7.jpg",
+    "alpha": 1.0
+  },
+  "color": "#fdc0d2"
+}
