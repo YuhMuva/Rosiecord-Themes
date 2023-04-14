@@ -67,40 +67,40 @@
       "#673C46"
     ],
     "BACKGROUND_FLOATING": [
-      "#5E451B",
-      "#5E451B"
+      "#673C46",
+      "#673C46"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#4C3402",
-      "#4C3402"
+      "#673C46",
+      "#673C46"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#4C3402",
-      "#4C3402"
+      "#673C46",
+      "#673C46"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#4C3402",
-      "#4C3402"
+      "#673C46",
+      "#673C46"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#5E451B",
-      "#5E451B"
+      "#673C46",
+      "#673C46"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#5E451B",
-      "#5E451B"
+      "#673C46",
+      "#673C46"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#5E451B",
-      "#5E451B"
+      "#673C46",
+      "#673C46"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#5E451B",
-      "#5E451B"
+      "#673C46",
+      "#673C46"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#5E451B",
-      "#5E451B"
+      "#673C46",
+      "#673C46"
     ],
     "BACKGROUND_MENTIONED": [
       "#F2BBDC",
